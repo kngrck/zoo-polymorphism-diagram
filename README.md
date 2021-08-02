@@ -1,2 +1,2 @@
-# zoo-polymorphism-diagram
-Zoo polymorphis diagram for Patika.dev OOP homework.
+# Zoo Polymorphism Diagram
+Zoo polymorphism diagram for Patika.dev OOP homework.
